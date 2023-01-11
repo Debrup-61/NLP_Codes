@@ -13,5 +13,12 @@ The model uses Long Short Term Memory Architecture (LSTM) architecture in this m
   <img src="images/pic1.png" width="300" height="auto"/>
   &nbsp;
   &nbsp;
-  <img src="images/pic2.png" width="400" height="auto"/> 
+  <img src="images/pic2.png" width="300" height="auto"/> 
+</p>
+/br></br>
+<p float="left" align="middle">
+  <img src="images/pic3.png" width="300" height="auto"/>
+  &nbsp;
+  &nbsp;
+  <img src="images/pic4.png" width="400" height="auto"/> 
 </p>
