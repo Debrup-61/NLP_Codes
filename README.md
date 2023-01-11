@@ -1,4 +1,4 @@
-<h1> NLP Sample Codes
+<h2> NLP Codes </h2>
 
 ### N-GRAM LANGUAGE MODELS
 We implement the simple n-gram language model using Python and uses the perplexity as a measure of learning.
