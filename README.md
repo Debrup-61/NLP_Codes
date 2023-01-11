@@ -9,7 +9,7 @@ We implement the simple n-gram language model using Python and uses the perplexi
 This short project builds a model which performs sentiment analysis and classifies IMDB movie reviews as positive or negative with some probability.
 The model uses Long Short Term Memory Architecture (LSTM) architecture in this model with the help of Pytorch.
 </br></br>
-<img align ="center" src="images/pic1.png" width="300" height="auto"/>
+<p align="center"> <img src="images/pic1.png" width="300" height="auto"/> </p>
   
 <img align ="center" src="images/pic2.png" width="400" height="400"/> 
 
