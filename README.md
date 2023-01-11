@@ -10,7 +10,7 @@ This short project builds a model which performs sentiment analysis and classifi
 The model uses Long Short Term Memory Architecture (LSTM) architecture in this model with the help of Pytorch.
 </br></br>
 <p float="left" align="middle">
-  <img src="images/pic1.png" width="400" height="300"/>
+  <img src="images/pic1.png" width="200" height="400"/>
   &nbsp;
   &nbsp;
   <img src="images/pic2.png" width="400" height="300"/> 
