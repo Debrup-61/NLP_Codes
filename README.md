@@ -1,3 +1,9 @@
+<h1> NLP Sample Codes
+
+### N-GRAM LANGUAGE MODELS
+We implement the simple n-gram language model using Python and uses the perplexity as a measure of learning.
+
+
 ### SENTIMENT ANALYSIS USING LSTM
 
 This short project builds a model which performs sentiment analysis and classifies IMDB movie reviews as positive or negative with some probability.
